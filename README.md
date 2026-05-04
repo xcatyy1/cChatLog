@@ -4,7 +4,7 @@
 
 🕵️ Özel Mesaj İzleyici: /msg, /tell, /r gibi komutlarla yapılan tüm gizli konuşmaları yakalayarak yetkililer için şeffaf bir günlük tutar.
 
-🚀 Asenkron Mesaj Kuyruğu: Logları Discord'a gönderirken sunucu ana işlemini bekletmez. bBu sayede sohbet yoğun olsa bile sunucuda takılma yaşanmaz.
+🚀 Asenkron Mesaj Kuyruğu: Logları Discord'a gönderirken sunucu ana işlemini bekletmez. Bu sayede sohbet yoğun olsa bile sunucuda takılma yaşanmaz.
 
 🧠 Akıllı Yanıt Hafızası: /r komutunda hedef ismi otomatik tespit eden RAM tabanlı önbellek sistemi sayesinde loglar her zaman "Kim -> Kime" şeklinde net gözükür.
 
