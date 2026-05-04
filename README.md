@@ -12,11 +12,15 @@
 ** **
 # 📦 Kurulum
 Desteklenen Sürümler: 1.20x
+
 JDK 17 ve üstünde çalışmaktadır.
+
 cChatLog.jar dosyasını indirin.
+
 Sunucunuzun /plugins klasörüne atın.
+
 Discord kanalınızdan aldığınız Webhook URL'sini config dosyasına yapıştırın.
-Sunucuyu başlatın.
+
 ** **
 # 📜 Lisans ve Kullanım Şartları
 Bu yazılım kapalı kaynak kodlu bir projedir. Kodların tersine mühendislik ile açılması, kopyalanması veya izinsiz olarak yeniden dağıtılması kesinlikle yasaktır. Tüm hakları xCatyy'e aittir.
