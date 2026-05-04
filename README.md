@@ -11,7 +11,7 @@
 🛠️ Esnek Formatlama: Discord'a giden mesajların tasarımını, emojilerini ve başlıklarını config.yml üzerinden tamamen değiştirebilirsiniz.
 ** **
 # 📦 Kurulum
-Desteklenen Sürümler: 1.20x - 1.21x
+Desteklenen Sürümler: 1.20x
 JDK 17 ve üstünde çalışmaktadır.
 cChatLog.jar dosyasını indirin.
 Sunucunuzun /plugins klasörüne atın.
