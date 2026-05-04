@@ -1,4 +1,4 @@
-# 💬 cChatLog Eklenti Özellikleri
+# cChatLog Eklenti Özellikleri
 
 🔗 Discord Webhook Entegrasyonu: Sunucu içi sohbetleri ve özel mesajları anlık olarak belirlediğiniz Discord kanalına aktarır.
 
@@ -20,3 +20,5 @@ Sunucuyu başlatın.
 ** **
 📜 Lisans ve Kullanım Şartları
 Bu yazılım kapalı kaynak kodlu bir projedir. Kodların tersine mühendislik ile açılması, kopyalanması veya izinsiz olarak yeniden dağıtılması kesinlikle yasaktır. Tüm hakları xCatyy'e aittir.
+
+<img width="1774" height="887" alt="cChatLog arka plan" src="https://github.com/user-attachments/assets/ee9db6be-ac97-40be-8af5-3b3665da3450" />
